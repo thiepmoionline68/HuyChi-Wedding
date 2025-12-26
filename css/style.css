@@ -695,8 +695,8 @@ main{
     font-weight: bold;
 }
 .banner-date span:nth-child(odd) {
-    border-top: 1px solid var(--text-gray);
-    border-bottom: 1px solid var(--text-gray);
+    border-top: 1px solid #ffffff96;
+    border-bottom: 1px solid #ffffff96;
     padding: 4px 0;
     line-height: 1.4;
 }
